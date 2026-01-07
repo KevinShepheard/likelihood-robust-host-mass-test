@@ -107,5 +107,6 @@ MIT
 
 # Citation
 
-If you use this code, please cite the accompanying Zenodo release of the paper:
-Kevin Shepheard, Likelihood-Robust Isolation of the Host-Galaxy Mass Step in Type Ia Supernovae, Zenodo, DOI: (add once minted)
+If you use this code, please cite the accompanying paper and software release:
+
+Kevin Shepheard, *Likelihood-Robust Isolation of the Host-Galaxy Mass Step in Type Ia Supernovae*, Zenodo, https://doi.org/10.5281/zenodo.18169453
